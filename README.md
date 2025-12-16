@@ -1,6 +1,7 @@
 <div align="center">
   
-# 👋 Hello! My name is Rodrigo Medeiros. I`m a software engineer and programming instructor.
+# 👋 Hello! My name is Rodrigo Medeiros. 
+## I`m a software engineer and programming instructor.
 
 [![GitHub followers](https://img.shields.io/github/followers/rodrigoamb?style=social)](https://github.com/rodrigoamb)
 [![Email](https://img.shields.io/badge/Email-dev.rodrigomedeiros%40gmail.com-red?style=flat-square&logo=gmail)](mailto:dev.rodrigomedeiros@gmail.com)
