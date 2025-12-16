@@ -20,7 +20,7 @@ const rodrigoMedeirosDev = {
     function: "Full Stack Developer",
     programmingLanguages: ["JavaScript", "TypeScript", "Go"],
     tools: ["React", "Node.js", "Next.js", "Docker", "Git", "TailwindCSS", "NestJS"],
-    focus: "Ensinar e inspirar novos desenvolvedores",
+    focus: "Teaching and inspiring new developers",
     hobbies: ["Coding", "Teaching", "Exploring new technologies"]
 };
 ```
