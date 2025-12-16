@@ -2,8 +2,6 @@
   
 # 👋 Hello! My name is Rodrigo Medeiros. I`m a software engineer and programming instructor.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Desenvolvedor+Full+Stack;Professor+de+Programação;Apaixonado+por+Tecnologia" alt="Typing SVG" />
-
 [![GitHub followers](https://img.shields.io/github/followers/rodrigoamb?style=social)](https://github.com/rodrigoamb)
 [![Email](https://img.shields.io/badge/Email-dev.rodrigomedeiros%40gmail.com-red?style=flat-square&logo=gmail)](mailto:dev.rodrigomedeiros@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Brazil-green?style=flat-square&logo=google-maps)](https://www.google.com/maps/place/Brazil)
@@ -12,7 +10,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
 ```typescript
 const rodrigoMedeirosDev = {
@@ -28,7 +26,7 @@ const rodrigoMedeirosDev = {
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+## 💻 Technologies and Tools
 
 <div align="center">
 
@@ -88,7 +86,7 @@ const rodrigoMedeirosDev = {
 
 ---
 
-## 💭 Citação do Dia
+## 💭 Quote of the day
 
 <div align="center">
 
@@ -98,7 +96,7 @@ const rodrigoMedeirosDev = {
 
 ---
 
-## 🐍 Contribuições
+## 🐍 Contributions
 
 <div align="center">
   
