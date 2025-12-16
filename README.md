@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Olá! Eu sou Rodrigo Medeiros
+# 👋 Hello! My name is Rodrigo Medeiros. I`m a software engineer and programming instructor.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Desenvolvedor+Full+Stack;Professor+de+Programação;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 
@@ -15,14 +15,14 @@
 ## 🚀 Sobre Mim
 
 ```typescript
-const rodrigo = {
-    nome: "Rodrigo Medeiros",
-    localização: "🇧🇷 Brazil",
-    função: "Desenvolvedor Full Stack & Professor",
-    código: ["JavaScript", "TypeScript", "Python", "Java"],
-    ferramentas: ["React", "Node.js", "Next.js", "Docker"],
-    foco_atual: "Ensinar e inspirar novos desenvolvedores",
-    hobbies: ["Programação", "Ensino", "Aprender novas tecnologias"]
+const rodrigoMedeirosDev = {
+    name: "Rodrigo Medeiros",
+    location: "🇧🇷 Brazil",
+    function: "Full Stack Developer",
+    programmingLanguages: ["JavaScript", "TypeScript", "Go"],
+    tools: ["React", "Node.js", "Next.js", "Docker", "Git", "TailwindCSS", "NestJS"],
+    focus: "Ensinar e inspirar novos desenvolvedores",
+    hobbies: ["Coding", "Teaching", "Exploring new technologies"]
 };
 ```
 
@@ -39,12 +39,10 @@ const rodrigo = {
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-09A7CF?style=for-the-badge&logo=go&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
@@ -64,24 +62,7 @@ const rodrigo = {
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoamb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoamb&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigoamb&theme=tokyonight)
-
-</div>
-
----
-
-## 🎯 Atividade Recente
+## 🎯 Recent activities
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -94,36 +75,14 @@ const rodrigo = {
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=rodrigoamb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-## 📚 Projetos em Destaque
+## 📫 Find Me
 
 <div align="center">
 
-[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=rodrigoamb&repo=rodrigoamb&theme=tokyonight)](https://github.com/rodrigoamb/rodrigoamb)
-
-</div>
-
-> 💡 **Dica**: Explore meus repositórios para ver mais projetos interessantes!
-
----
-
-## 📫 Como me encontrar
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigoamb)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/rodrigoamb](https://www.linkedin.com/in/rodrigomedeirosdev/))
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigoamb)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.rodrigomedeiros@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rodrigoamb.github.io)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rodrigomedeirosdev.com.br/)
 
 </div>
 
@@ -149,14 +108,5 @@ const rodrigo = {
 
 ---
 
-<div align="center">
-
-### 🌟 "Código limpo não é escrito seguindo regras. Você sabe quando está lendo código limpo quando cada rotina que você lê é o que você esperava." - Robert C. Martin
-
-![Visitor Count](https://profile-counter.glitch.me/rodrigoamb/count.svg)
-
----
-
-**⭐ Deixe uma estrela nos repositórios que você achar interessante!**
 
 </div>
